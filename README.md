@@ -1,2 +1,5 @@
-# Lab-RankingSystem
-java lab
+# Lab 2 -RankingSystem
+ah
+Name: Rena
+
+Partner: None
